@@ -7,8 +7,8 @@ cli:
 plugins:
   sources:
     - id: trunk
-      ref: v1.6.7
-      uri: https://github.com/trunk-io/plugins
+       ref: v1.6.7
+       uri: https://github.com/trunk-io/plugins
 # Many linters and tools depend on runtimes - configure them here. (https://docs.trunk.io/runtimes)
 runtimes:
   enabled:
